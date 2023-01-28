@@ -1,4 +1,5 @@
 import React from 'react';
+import About from './About';
 import logo from '../image/logo.png';
 import '../App.css';
 
@@ -10,6 +11,7 @@ function App() {
         <h1>Veronika Savluk</h1>
         <p>Full Stack Developer</p>
       </header>
+      <About/>
     </div>
   );
 }
