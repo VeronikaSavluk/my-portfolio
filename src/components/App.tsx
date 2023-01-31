@@ -1,20 +1,25 @@
-import React from 'react';
-import About from './About';
-import TechSkills from './TechSkills';
-import logo from '../image/logo.png';
+import {lazy} from 'react';
+import {Route, Routes} from 'react-router-dom';
+import { VStack } from '@chakra-ui/react';
+
+import Layout from './Layout';
 import '../App.css';
+
+const MainPage = lazy(() => import('../pages/About'));
+const Projects = lazy(() => import('../pages/Projects'));
+const Skills = lazy(() => import('../pages/TechSkills'));
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>Veronika Savluk</h1>
-        <p>Full Stack Developer</p>
-      </header>
-      <About/>
-      <TechSkills/>
-    </div>
+    <VStack>
+      <Routes>
+        <Route path='/' element={<Layout/>} >
+        <Route index element={<MainPage/>} />
+        <Route path='/projects' element={<Projects/>}/>
+        <Route path='/skills' element={<Skills/>} />
+        </Route>
+      </Routes>
+    </VStack>
   );
 }
 
