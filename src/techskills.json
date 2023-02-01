@@ -1,42 +1,77 @@
 [
 	{
+		"name": "node.js",
+		"url": "https://nodejs.org/en/",
+		"projects": []
+	},
+	{
+		"name": "express",
+		"url": "https://expressjs.com/",
+		"projects": []
+	},
+	{
+		"name": "java script",
+		"url":"http://xn--80adth0aefm3i.xn--j1amh/",
+		"projects": []
+	},
+	{
 	"name": "react",
+	"url": "https://uk.reactjs.org/",
 	"projects": []
 },
-	{
-	"name": "java script",
+{
+	"name": "react native",
+	"url": "https://reactnative.dev/",
 	"projects": []
 },
 {
 	"name": "html5",
+	"url": "https://html.spec.whatwg.org/multipage/",
 	"projects": []
 },
 {
 	"name": "css3",
+	"url": "https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics",
 	"projects": []
 },
 {
 	"name": "prettier",
+	"url": "https://prettier.io/",
 	"projects": []
 },
 {
 	"name": "metodology BEM",
+	"url": "https://en.bem.info/methodology/",
 	"projects": []
 },
 {
 	"name": "icomoon",
+	"url": "https://icomoon.io/",
 	"projects": []
 },
 {
 	"name": "svgomg",
+	"url": "https://jakearchibald.github.io/svgomg/",
 	"projects": []
 },
 {
 	"name": "squoosh",
+	"url": "https://squoosh.app/",
 	"projects": []
 },
 {
 	"name": "validator nu html checker",
+	"url": "https://validator.w3.org/nu/",
 	"projects": []
-}			
+},
+{
+	"name": "mongoose",
+	"url": "https://mongoosejs.com/",
+	"projects": []
+},
+{
+	"name": "mongodb",
+	"url": "https://www.mongodb.com/",
+	"projects": []
+}
 ]
