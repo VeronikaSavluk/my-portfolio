@@ -2,76 +2,139 @@
 	{
 		"name": "node.js",
 		"url": "https://nodejs.org/en/",
-		"projects": []
+		"projects": [
+			"team-project-react-petly"
+		]
 	},
 	{
 		"name": "express",
 		"url": "https://expressjs.com/",
-		"projects": []
+		"projects": [
+			"team-project-react-petly"
+		]
 	},
 	{
 		"name": "java script",
 		"url":"http://xn--80adth0aefm3i.xn--j1amh/",
-		"projects": []
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka",
+			"goit-react-hw-08-phonebook",
+			"rn-social",
+			"team-project-react-petly"
+		]
 	},
 	{
 	"name": "react",
 	"url": "https://uk.reactjs.org/",
-	"projects": []
+	"projects": [
+		"goit-react-hw-08-phonebook",
+		"team-project-react-petly"
+	]
 },
 {
 	"name": "react native",
 	"url": "https://reactnative.dev/",
-	"projects": []
+	"projects": [
+		"rn-social"
+	]
 },
 {
 	"name": "html5",
 	"url": "https://html.spec.whatwg.org/multipage/",
-	"projects": []
+	"projects": [
+		"goit-markup-hw-08",
+		"team-project-html-css-ice-cream",
+		"team-project-js-filmoteka",
+		"goit-react-hw-08-phonebook",
+		"team-project-react-petly"
+	]
 },
 {
 	"name": "css3",
 	"url": "https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics",
-	"projects": []
+	"projects": [
+		"goit-markup-hw-08",
+		"team-project-html-css-ice-cream",
+		"team-project-js-filmoteka",
+		"team-project-react-petly"
+	]
 },
 {
 	"name": "prettier",
 	"url": "https://prettier.io/",
-	"projects": []
+	"projects": [
+		"goit-markup-hw-08",
+		"team-project-html-css-ice-cream",
+		"team-project-js-filmoteka",
+		"goit-react-hw-08-phonebook",
+		"team-project-react-petly"
+	]
 },
 {
 	"name": "metodology BEM",
 	"url": "https://en.bem.info/methodology/",
-	"projects": []
+	"projects": [
+		"goit-markup-hw-08",
+		"team-project-html-css-ice-cream"
+	]
 },
 {
 	"name": "icomoon",
 	"url": "https://icomoon.io/",
-	"projects": []
+	"projects": [
+		"goit-markup-hw-08",
+		"team-project-html-css-ice-cream",
+		"team-project-js-filmoteka"
+	]
 },
 {
 	"name": "svgomg",
 	"url": "https://jakearchibald.github.io/svgomg/",
-	"projects": []
+	"projects": [
+		"goit-markup-hw-08",
+		"team-project-html-css-ice-cream",
+		"team-project-js-filmoteka"
+	]
 },
 {
 	"name": "squoosh",
 	"url": "https://squoosh.app/",
-	"projects": []
+	"projects": [
+		"goit-markup-hw-08",
+		"team-project-html-css-ice-cream",
+		"team-project-js-filmoteka"
+	]
 },
 {
 	"name": "validator nu html checker",
 	"url": "https://validator.w3.org/nu/",
-	"projects": []
+	"projects": [
+		"goit-markup-hw-08",
+		"team-project-html-css-ice-cream",
+		"team-project-js-filmoteka"
+	]
 },
 {
 	"name": "mongoose",
 	"url": "https://mongoosejs.com/",
-	"projects": []
+	"projects": [
+		"team-project-react-petly"
+	]
 },
 {
 	"name": "mongodb",
 	"url": "https://www.mongodb.com/",
-	"projects": []
+	"projects": [
+		"team-project-react-petly"
+	]
+},
+{
+	"name": "swagger UI express",
+	"url": "https://swagger.io/",
+	"projects": [
+		"team-project-react-petly"
+	]
 }
 ]
