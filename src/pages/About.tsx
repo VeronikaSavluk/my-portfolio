@@ -3,7 +3,8 @@ import {
 	Heading,
 	Text
 } from '@chakra-ui/react';
-import logo from '../image/logo.png';
+import Logo from '../components/Logo';
+
 
 import Education from '../components/Education';
 
@@ -12,7 +13,7 @@ function About (){
 return (
 	<Container>
 		<Heading>Veronika Savluk</Heading>
-		<img src={logo} className="App-logo" alt="logo" />
+		<Logo/>
 		<Text>Full Stack Developer</Text>
 		<Education/>
 	</Container>
