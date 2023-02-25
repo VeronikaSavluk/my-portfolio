@@ -1,22 +1,24 @@
 import {
-	Box,
-	Image
+	Box
  } from "@chakra-ui/react"
-// import html from '../image/html5.jpg';
-// import css from '../image/css3.jpg';
-// import node from '../image/node.jpg';
+import html from '../image/html.svg';
+import css from '../image/css.svg';
+import node from '../image/node.svg';
 import gear from '../image/wing.com.png';
+import js from '../image/js.png';
+import react from '../image/react.svg';
 
 function Logo (){
-
 	return (
-		<Box pos="relative">
-			<Image boxSize={9}	src={gear} className="App-logo-min" alt="small gear" />
-			<Image boxSize={12} src={gear} className="App-logo-max" alt="big gear" />
-			<Image boxSize={10} src={gear} className="App-logo" alt="gear" />
-			{/* <Image h={6} w={5} src={html} alt="html5" />
-			<Image h={6} w={5} src={css} alt="css3" />
-			<Image h={5} w={10} src={node} alt="node.js" /> */}
+		<Box boxSize={92} pos="relative">
+			<img src={gear} className="gear-min" alt="small gear" />
+			<img src={gear} className="gear-max" alt="big gear" />
+			<img src={gear} className="gear" alt="gear" />
+			<img className="html" src={html} alt="html5" />
+			<img className="css" src={css} alt="css3" />
+			<img className="react" src={react} alt="react" />
+			<img className="node" src={node} alt="node.js" />
+			<img className="js" src={js} alt="js" />
 		</Box>
 	);
 }

@@ -2,32 +2,44 @@
   text-align: center;
 }
 
-.App-logo-min {
-  height: 20vmin;
+.gear-min {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 40px;
+  height: 40px;
   pointer-events: none;
 }
 
-.App-logo {
-  height: 25vmin;
+.gear {
+  position: absolute;
+  top: 39px;
+  left: 58px;
+  width: 35px;
+  height: 35px;
   pointer-events: none;
 }
 
-.App-logo-max {
-  height: 20vmin;
+.gear-max {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  width: 60px;
+  height: 60px;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo-min {
-    animation: gear-min-spin infinite 20s linear;
+  .gear-min {
+    animation: gear-min infinite 20s linear;
   }
 
-  .App-logo {
-    animation: gear-spin infinite 20s linear;
+  .gear {
+    animation: gear infinite 20s linear;
   }
 
-  .App-logo-max {
-    animation: gear-max-spin infinite 20s linear;
+  .gear-max {
+    animation: gear-max infinite 20s linear;
   }
 }
 
@@ -46,7 +58,7 @@
   color: #61dafb;
 }
 
-  @keyframes gear-min-spin {
+  @keyframes gear-min {
     from {
       transform: rotate(360deg);
     }
@@ -55,7 +67,7 @@
     }
 }
 
-@keyframes gear-spin {
+@keyframes gear-max {
   from {
     transform: rotate(0deg);
   }
@@ -64,11 +76,51 @@
   }
 }
 
-@keyframes gear-max-spin {
+@keyframes gear {
   from {
     transform: rotate(360deg);
   }
   to {
     transform: rotate(0deg);
   }
+}
+
+.html {
+  position: absolute;
+  top: 14px;
+  left: 4px;
+  width: 14px;
+  height: 14px;
+}
+
+.css {
+  position: absolute;
+  top: 14px;
+  left: 15px;
+  width: 14px;
+  height: 14px;
+}
+
+.js {
+  position: absolute;
+  top: 54px;
+  left: 21px;
+  width: 18px;
+  height: 21px;
+}
+
+.node {
+  position: absolute;
+  top: 50px;
+  left: 68px;
+  width: 15px;
+  height: 14px;
+}
+
+.react {
+  position: absolute;
+  top: 11px;
+  left: 41px;
+  width: 17px;
+  height: 17px;
 }
