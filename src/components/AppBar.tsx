@@ -7,10 +7,15 @@ import {
 
 function AppBar () {
 	return (
-		<Breadcrumb fontWeight='bold' fontSize='xl' separator=' '>
+		<Breadcrumb fontWeight='bold' fontSize='xs' separator=' '>
 		<BreadcrumbItem>
 				<BreadcrumbLink as={NavLink} to='/' isCurrentPage>
 				About
+				</BreadcrumbLink>
+		</BreadcrumbItem>
+		<BreadcrumbItem>
+				<BreadcrumbLink as={NavLink} to='/education'>
+				Education
 				</BreadcrumbLink>
 		</BreadcrumbItem>
 		<BreadcrumbItem>
