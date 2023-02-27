@@ -4,7 +4,7 @@
 		"name": "team-project-react-petly",
 		"codeURL": "https://github.com/VeronikaSavluk/team-project-react-petly",
 		"websiteURL": "https://team-project-react-petly.netlify.app/",
-		"description": "",
+		"description": "It is the application for searching information about pets and services with the possibility of maintaining your own acount and add your favorite pets",
 		"tools": [
 			"node.js",
 			"express",
@@ -105,8 +105,6 @@
 		"websiteURL": "https://veronikasavluk.github.io/goit-react-hw-05-movies/",
 		"description": "It is the application for searching movie information",
 		"tools": [
-			"html5",
-			"css3",
 			"react",
 			"react-hooks", 
 			"react-icons",
@@ -114,6 +112,7 @@
 			"prettier",
 			"axios",
 			"prop-types",
+			"css3",
 			"api.themoviedb.org"
 		]
 	}
