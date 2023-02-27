@@ -1,12 +1,12 @@
 import {
 	Box
  } from "@chakra-ui/react"
-import html from '../image/html.svg';
-import css from '../image/css.svg';
-import node from '../image/node.svg';
-import gear from '../image/wing.com.png';
-import js from '../image/js.png';
-import react from '../image/react.svg';
+import html from '../images/html.svg';
+import css from '../images/css.svg';
+import node from '../images/node.svg';
+import gear from '../images/wing.com.png';
+import js from '../images/js.png';
+import react from '../images/react.svg';
 
 function Logo (){
 	return (
