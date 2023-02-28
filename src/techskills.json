@@ -67,6 +67,16 @@
 	]
 },
 {
+	"name": "Sass",
+	"url": "https://sass-lang.com/",
+	"logotype": "images/sass.png",
+	"projects": [
+		"goit-markup-hw-08",
+		"team-project-html-css-ice-cream",
+		"team-project-js-filmoteka"
+	]
+},
+{
 	"name": "prettier",
 	"url": "https://prettier.io/",
 	"logotype": "images/prettier.png",
@@ -158,5 +168,77 @@
 	"projects": [
 		"team-project-react-petly"
 	]
+},
+{
+	"name": "SimpleLightbox",
+	"url": "https://simplelightbox.com/",
+	"logotype": "images/simple-light-box.jpg",
+	"projects": []
+},
+{
+	"name": "Notiflix",
+	"url": "https://github.com/notiflix/Notiflix#readme",
+	"logotype": "images/notiflix.jpg",
+	"projects": []
+},
+{
+	"name": "axios",
+	"url": "https://axios-http.com/",
+	"logotype": "images/axios.png",
+	"projects": []
+},
+{
+	"name": "basicLightbox",
+	"url": "https://basiclightbox.electerious.com/",
+	"logotype": "images/basic-light-box.png",
+	"projects": []
+},
+{
+	"name": "Vimeo Player API",
+	"url": "https://github.com/vimeo/player.js/#vimeo-player-api",
+	"logotype": "images/vimeo-player.png",
+	"projects": []
+},
+{
+	"name": "flatpickr",
+	"url": "https://flatpickr.js.org/",
+	"logotype": "",
+	"projects": []
+},
+{
+	"name": "Nano ID",
+	"url": "https://github.com/ai/nanoid#readme",
+	"logotype": "images/nanoid.png",
+	"projects": []
+},
+{
+	"name": "react-loader-spinner",
+	"url": "https://github.com/mhnpd/react-loader-spinner",
+	"logotype": "images/react-loader-spinner.png",
+	"projects": []
+},
+{
+	"name": "redux-toolkit",
+	"url": "https://redux-toolkit.js.org/",
+	"logotype": "images/redux-toolkit.jpg",
+	"projects": []
+},
+{
+	"name": "styled-components",
+	"url": "https://styled-components.com/",
+	"logotype": "images/styled-components.png",
+	"projects": []
+},
+{
+	"name": "Emotion",
+	"url": "https://emotion.sh/",
+	"logotype": "images/emotion.png",
+	"projects": []
+},
+{
+	"name": "chakra-ui",
+	"url": "https://chakra-ui.com/",
+	"logotype": "images/chakra-ui.jpg",
+	"projects": []
 }
 ]
