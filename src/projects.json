@@ -12,7 +12,7 @@
 			"cloudinary",
 			"mongoDB",
 			"mongoose",
-			"cors",
+			"CORS",
 			"gravatar",
 			"joi",
 			"multer",
