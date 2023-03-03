@@ -1,7 +1,8 @@
 [
 	{
 		"type": "team",
-		"name": "team-project-react-petly",
+		"name": "Petly",
+		"posterURL": "images/projects/petly.png",
 		"codeURL": "https://github.com/VeronikaSavluk/team-project-react-petly",
 		"websiteURL": "https://team-project-react-petly.netlify.app/",
 		"description": "It is the application for searching information about pets and services with the possibility of maintaining your own acount and add your favorite pets",
@@ -33,6 +34,7 @@
 	{
 		"type": "team",
 		"name": "IceCream",
+		"posterURL": "images/projects/ice-cream.png",
 		"codeURL": "https://github.com/VeronikaSavluk/team-project-html-css-ice-cream",
 		"websiteURL": "https://veronikasavluk.github.io/team-project-html-css-ice-cream/",
 		"description": "It is the landing page with adaptive layouts design for ice-cream store. I was working with section-hero",
@@ -51,6 +53,7 @@
 	{
 		"type": "team",
 		"name": "Filmoteka",
+		"posterURL": "images/projects/filmoteka.png",
 		"codeURL": "https://github.com/VeronikaSavluk/team-project-js-filmoteka",
 		"websiteURL": "https://veronikasavluk.github.io/team-project-js-filmoteka/",
 		"description": "It is the application for searching a movie and formation of own movies library. I was coding main-container and my-library-container, render watched movies",
@@ -65,6 +68,7 @@
 	{
 		"type": "individual",
 		"name": "Phonebook",
+		"posterURL": "images/projects/phonebook.png",
 		"codeURL": "https://github.com/VeronikaSavluk/goit-react-hw-08-phonebook",
 		"websiteURL": "https://veronikasavluk.github.io/goit-react-hw-08-phonebook/",
 		"description": "It is the application for saving contacts",
@@ -83,6 +87,7 @@
 	{
 		"type": "individual",
 		"name": "WebStudio",
+		"posterURL": "images/projects/web-studio.png",
 		"codeURL": "https://github.com/VeronikaSavluk/goit-markup-hw-08",
 		"websiteURL": "https://veronikasavluk.github.io/goit-markup-hw-08/",
 		"description": "is the landing page with adaptive layouts design",
@@ -101,6 +106,7 @@
 	{
 		"type": "individual",
 		"name": "Filmoteka",
+		"posterURL": "images/projects/my-filmoteka.png",
 		"codeURL": "https://github.com/VeronikaSavluk/goit-react-hw-05-movies",
 		"websiteURL": "https://veronikasavluk.github.io/goit-react-hw-05-movies/",
 		"description": "It is the application for searching movie information",
