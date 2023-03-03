@@ -12,7 +12,7 @@ import techskills from '../techskills.json';
 function TechSkills () {
 	return <>
 	<Heading>TechSkills</Heading>
-	<Flex flexWrap='wrap' gap='10px' alignItems='center'>
+	<Flex flexWrap='wrap' gap='20px' alignItems='center'>
 		{techskills.map(({name, url, logotype}, idx) => 
 		<Box key={idx + 1}>
 			<Link href={url} target="_blank">
