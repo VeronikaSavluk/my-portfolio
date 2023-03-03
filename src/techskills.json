@@ -10,7 +10,31 @@
 	{
 		"name": "express",
 		"url": "https://expressjs.com/",
-		"logotype": "",
+		"logotype": "images/expressjs.png",
+		"projects": [
+			"team-project-react-petly"
+		]
+	},
+	{
+		"name": "mongoose",
+		"url": "https://mongoosejs.com/",
+		"logotype": "images/mo.png",
+		"projects": [
+			"team-project-react-petly"
+		]
+	},
+	{
+		"name": "mongodb",
+		"url": "https://www.mongodb.com/",
+		"logotype": "images/mongodb.png",
+		"projects": [
+			"team-project-react-petly"
+		]
+	},
+	{
+		"name": "swagger UI express",
+		"url": "https://swagger.io/",
+		"logotype": "images/swagger.png",
 		"projects": [
 			"team-project-react-petly"
 		]
@@ -29,216 +53,184 @@
 		]
 	},
 	{
-	"name": "react",
-	"url": "https://uk.reactjs.org/",
-	"logotype": "images/react.webp",
-	"projects": [
-		"goit-react-hw-08-phonebook",
-		"team-project-react-petly"
-	]
-},
-{
-	"name": "react native",
-	"url": "https://reactnative.dev/",
-	"logotype": "",
-	"projects": [
-		"rn-social"
-	]
-},
-{
-	"name": "html5",
-	"url": "https://html.spec.whatwg.org/multipage/",
-	"logotype": "images/html.svg",
-	"projects": [
-		"goit-markup-hw-08",
-		"team-project-html-css-ice-cream",
-		"team-project-js-filmoteka"
-	]
-},
-{
-	"name": "css3",
-	"url": "https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics",
-	"logotype": "images/css.svg",
-	"projects": [
-		"goit-markup-hw-08",
-		"team-project-html-css-ice-cream",
-		"team-project-js-filmoteka",
-		"team-project-react-petly"
-	]
-},
-{
-	"name": "Sass",
-	"url": "https://sass-lang.com/",
-	"logotype": "images/sass.png",
-	"projects": [
-		"goit-markup-hw-08",
-		"team-project-html-css-ice-cream",
-		"team-project-js-filmoteka"
-	]
-},
-{
-	"name": "prettier",
-	"url": "https://prettier.io/",
-	"logotype": "images/prettier.png",
-	"projects": [
-		"goit-markup-hw-08",
-		"team-project-html-css-ice-cream",
-		"team-project-js-filmoteka",
-		"goit-react-hw-08-phonebook",
-		"team-project-react-petly"
-	]
-},
-{
-	"name": "metodology BEM",
-	"url": "https://en.bem.info/methodology/",
-	"logotype": "images/bem_methodology.jpg",
-	"projects": [
-		"goit-markup-hw-08",
-		"team-project-html-css-ice-cream"
-	]
-},
-{
-	"name": "icomoon",
-	"url": "https://icomoon.io/",
-	"logotype": "images/ico-moon.jpg",
-	"projects": [
-		"goit-markup-hw-08",
-		"team-project-html-css-ice-cream",
-		"team-project-js-filmoteka"
-	]
-},
-{
-	"name": "svgomg",
-	"url": "https://jakearchibald.github.io/svgomg/",
-	"logotype": "images/svgomg.jpg",
-	"projects": [
-		"goit-markup-hw-08",
-		"team-project-html-css-ice-cream",
-		"team-project-js-filmoteka"
-	]
-},
-{
-	"name": "squoosh",
-	"url": "https://squoosh.app/",
-	"logotype": "images/squoosh.png",
-	"projects": [
-		"goit-markup-hw-08",
-		"team-project-html-css-ice-cream",
-		"team-project-js-filmoteka"
-	]
-},
-{
-	"name": "validator nu html checker",
-	"url": "https://validator.w3.org/nu/",
-	"logotype": "",
-	"projects": [
-		"goit-markup-hw-08",
-		"team-project-html-css-ice-cream",
-		"team-project-js-filmoteka"
-	]
-},
-{
-	"name": "mongoose",
-	"url": "https://mongoosejs.com/",
-	"logotype": "images/mo.png",
-	"projects": [
-		"team-project-react-petly"
-	]
-},
-{
-	"name": "mongodb",
-	"url": "https://www.mongodb.com/",
-	"logotype": "images/mongodb.png",
-	"projects": [
-		"team-project-react-petly"
-	]
-},
-{
-	"name": "expressjs",
-	"url": "https://expressjs.com/",
-	"logotype": "images/expressjs.png",
-	"projects": [
-		"team-project-react-petly"
-	]
-},
-{
-	"name": "swagger UI express",
-	"url": "https://swagger.io/",
-	"logotype": "images/swagger.png",
-	"projects": [
-		"team-project-react-petly"
-	]
-},
-{
-	"name": "SimpleLightbox",
-	"url": "https://simplelightbox.com/",
-	"logotype": "images/simple-light-box.jpg",
-	"projects": []
-},
-{
-	"name": "Notiflix",
-	"url": "https://github.com/notiflix/Notiflix#readme",
-	"logotype": "images/notiflix.jpg",
-	"projects": []
-},
-{
-	"name": "axios",
-	"url": "https://axios-http.com/",
-	"logotype": "images/axios.png",
-	"projects": []
-},
-{
-	"name": "basicLightbox",
-	"url": "https://basiclightbox.electerious.com/",
-	"logotype": "images/basic-light-box.png",
-	"projects": []
-},
-{
-	"name": "Vimeo Player API",
-	"url": "https://github.com/vimeo/player.js/#vimeo-player-api",
-	"logotype": "images/vimeo-player.png",
-	"projects": []
-},
-{
-	"name": "flatpickr",
-	"url": "https://flatpickr.js.org/",
-	"logotype": "",
-	"projects": []
-},
-{
-	"name": "Nano ID",
-	"url": "https://github.com/ai/nanoid#readme",
-	"logotype": "images/nanoid.png",
-	"projects": []
-},
-{
-	"name": "react-loader-spinner",
-	"url": "https://github.com/mhnpd/react-loader-spinner",
-	"logotype": "images/react-loader-spinner.png",
-	"projects": []
-},
-{
-	"name": "redux-toolkit",
-	"url": "https://redux-toolkit.js.org/",
-	"logotype": "images/redux-toolkit.jpg",
-	"projects": []
-},
-{
-	"name": "styled-components",
-	"url": "https://styled-components.com/",
-	"logotype": "images/styled-components.png",
-	"projects": []
-},
-{
-	"name": "Emotion",
-	"url": "https://emotion.sh/",
-	"logotype": "images/emotion.png",
-	"projects": []
-},
-{
-	"name": "chakra-ui",
-	"url": "https://chakra-ui.com/",
-	"logotype": "images/chakra-ui.jpg",
-	"projects": []
-}
+		"name": "react",
+		"url": "https://uk.reactjs.org/",
+		"logotype": "images/react.webp",
+		"projects": [
+			"goit-react-hw-08-phonebook",
+			"team-project-react-petly"
+		]
+	},
+	{
+		"name": "react native",
+		"url": "https://reactnative.dev/",
+		"logotype": "images/react-native.png",
+		"projects": [
+			"rn-social"
+		]
+	},
+	{
+		"name": "html5",
+		"url": "https://html.spec.whatwg.org/multipage/",
+		"logotype": "images/html.svg",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka"
+		]
+	},
+	{
+		"name": "css3",
+		"url": "https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics",
+		"logotype": "images/css.svg",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka",
+			"team-project-react-petly"
+		]
+	},
+	{
+		"name": "Sass",
+		"url": "https://sass-lang.com/",
+		"logotype": "images/sass.png",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka"
+		]
+	},
+	{
+		"name": "prettier",
+		"url": "https://prettier.io/",
+		"logotype": "images/prettier.png",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka",
+			"goit-react-hw-08-phonebook",
+			"team-project-react-petly"
+		]
+	},
+	{
+		"name": "metodology BEM",
+		"url": "https://en.bem.info/methodology/",
+		"logotype": "images/bem_methodology.jpg",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream"
+		]
+	},
+	{
+		"name": "icomoon",
+		"url": "https://icomoon.io/",
+		"logotype": "images/ico-moon.jpg",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka"
+		]
+	},
+	{
+		"name": "svgomg",
+		"url": "https://jakearchibald.github.io/svgomg/",
+		"logotype": "images/svgomg.jpg",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka"
+		]
+	},
+	{
+		"name": "squoosh",
+		"url": "https://squoosh.app/",
+		"logotype": "images/squoosh.png",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka"
+		]
+	},
+	{
+		"name": "validator nu html checker",
+		"url": "https://validator.w3.org/nu/",
+		"logotype": "images/nu-html-checker.png",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka"
+		]
+	},
+	{
+		"name": "SimpleLightbox",
+		"url": "https://simplelightbox.com/",
+		"logotype": "images/simple-light-box.jpg",
+		"projects": []
+	},
+	{
+		"name": "Notiflix",
+		"url": "https://github.com/notiflix/Notiflix#readme",
+		"logotype": "images/notiflix.jpg",
+		"projects": []
+	},
+	{
+		"name": "axios",
+		"url": "https://axios-http.com/",
+		"logotype": "images/axios.png",
+		"projects": []
+	},
+	{
+		"name": "basicLightbox",
+		"url": "https://basiclightbox.electerious.com/",
+		"logotype": "images/basic-light-box.png",
+		"projects": []
+	},
+	{
+		"name": "Vimeo Player API",
+		"url": "https://github.com/vimeo/player.js/#vimeo-player-api",
+		"logotype": "images/vimeo-player.png",
+		"projects": []
+	},
+	{
+		"name": "flatpickr",
+		"url": "https://flatpickr.js.org/",
+		"logotype": "",
+		"projects": []
+	},
+	{
+		"name": "Nano ID",
+		"url": "https://github.com/ai/nanoid#readme",
+		"logotype": "images/nanoid.png",
+		"projects": []
+	},
+	{
+		"name": "react-loader-spinner",
+		"url": "https://github.com/mhnpd/react-loader-spinner",
+		"logotype": "images/react-loader-spinner.png",
+		"projects": []
+	},
+	{
+		"name": "redux-toolkit",
+		"url": "https://redux-toolkit.js.org/",
+		"logotype": "images/redux-toolkit.jpg",
+		"projects": []
+	},
+	{
+		"name": "styled-components",
+		"url": "https://styled-components.com/",
+		"logotype": "images/styled-components.png",
+		"projects": []
+	},
+	{
+		"name": "Emotion",
+		"url": "https://emotion.sh/",
+		"logotype": "images/emotion.png",
+		"projects": []
+	},
+	{
+		"name": "chakra-ui",
+		"url": "https://chakra-ui.com/",
+		"logotype": "images/chakra-ui.jpg",
+		"projects": []
+	}
 ]

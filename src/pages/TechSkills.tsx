@@ -1,10 +1,10 @@
 import {
 	Box,
 	Heading,
-	Grid,
-	GridItem,
+
 	Image,
-	Link	
+	Link,	
+	Flex
 } from '@chakra-ui/react';
 
 import techskills from '../techskills.json';
@@ -12,16 +12,16 @@ import techskills from '../techskills.json';
 function TechSkills () {
 	return <>
 	<Heading>TechSkills</Heading>
-	<Grid>
+	<Flex flexWrap='wrap' gap='10px' alignItems='center'>
 		{techskills.map(({name, url, logotype}, idx) => 
-		<GridItem key={idx + 1}>
+		<Box key={idx + 1}>
 			<Link href={url} target="_blank">
-				<Box w="60px" h="auto">
-			{logotype && <Image src={logotype} alt={name} w="100%"/>}
-				</Box>
+				<Flex maxW="100px" maxH="100px" alignItems="center">
+			{logotype && <Image src={logotype} alt={name} w="100%" h='auto'/>}
+				</Flex>
 			</Link>
-			</GridItem>)}
-	</Grid>
+			</Box>)}
+	</Flex>
 	</>
 }
 
