@@ -40,19 +40,6 @@
 		]
 	},
 	{
-		"name": "java script",
-		"url":"http://xn--80adth0aefm3i.xn--j1amh/",
-		"logotype": "images/js.png",
-		"projects": [
-			"goit-markup-hw-08",
-			"team-project-html-css-ice-cream",
-			"team-project-js-filmoteka",
-			"goit-react-hw-08-phonebook",
-			"rn-social",
-			"team-project-react-petly"
-		]
-	},
-	{
 		"name": "react",
 		"url": "https://uk.reactjs.org/",
 		"logotype": "images/react.webp",
@@ -67,6 +54,19 @@
 		"logotype": "images/react-native.png",
 		"projects": [
 			"rn-social"
+		]
+	},
+	{
+		"name": "java script",
+		"url":"http://xn--80adth0aefm3i.xn--j1amh/",
+		"logotype": "images/js.png",
+		"projects": [
+			"goit-markup-hw-08",
+			"team-project-html-css-ice-cream",
+			"team-project-js-filmoteka",
+			"goit-react-hw-08-phonebook",
+			"rn-social",
+			"team-project-react-petly"
 		]
 	},
 	{
@@ -99,6 +99,18 @@
 			"team-project-html-css-ice-cream",
 			"team-project-js-filmoteka"
 		]
+	},
+	{
+		"name": "redux-toolkit",
+		"url": "https://redux-toolkit.js.org/",
+		"logotype": "images/redux-toolkit.jpg",
+		"projects": []
+	},
+	{
+		"name": "axios",
+		"url": "https://axios-http.com/",
+		"logotype": "images/axios.png",
+		"projects": []
 	},
 	{
 		"name": "prettier",
@@ -174,12 +186,6 @@
 		"projects": []
 	},
 	{
-		"name": "axios",
-		"url": "https://axios-http.com/",
-		"logotype": "images/axios.png",
-		"projects": []
-	},
-	{
 		"name": "basicLightbox",
 		"url": "https://basiclightbox.electerious.com/",
 		"logotype": "images/basic-light-box.png",
@@ -207,12 +213,6 @@
 		"name": "react-loader-spinner",
 		"url": "https://github.com/mhnpd/react-loader-spinner",
 		"logotype": "images/react-loader-spinner.png",
-		"projects": []
-	},
-	{
-		"name": "redux-toolkit",
-		"url": "https://redux-toolkit.js.org/",
-		"logotype": "images/redux-toolkit.jpg",
 		"projects": []
 	},
 	{
