@@ -39,13 +39,13 @@ export const Button = defineStyleConfig({
       },
     },
     solid: {
-      bg: '#f1b61f',
+      bg: 'rgba(241, 182, 31, .8)',
       color: '#4d4c4c',
       _hover: {
-      bg: 'rgba(241, 182, 31, .7)'
+      bg: 'rgba(241, 182, 31, 1)'
       },
     _focus: {
-      bg: 'rgba(241, 182, 31, .7)'
+      bg: 'rgba(241, 182, 31, 1)'
       },
     },
   },
