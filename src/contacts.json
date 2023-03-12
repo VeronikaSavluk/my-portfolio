@@ -1,0 +1,22 @@
+[
+	{
+		"contact": "GitHub",
+		"contactURL": "https://github.com/VeronikaSavluk",
+		"iconURL": "my-portfolio/images/icons/github.svg"
+	},
+	{
+		"contact": "LinkedIn",
+		"contactURL": "https://linkedin.com/in/veronikasavluk",
+		"iconURL": "my-portfolio/images/icons/linkedin.svg"
+	},
+	{
+		"contact": "email",
+		"contactURL": "mailto:s_veronica@ukr.net",
+		"iconURL": "my-portfolio/images/icons/mail.svg"
+	},
+	{
+		"contact": "phone",
+		"contactURL": "tel:+380661954212",
+		"iconURL": "my-portfolio/images/icons/hand-holding-phone.svg"
+	}
+]
