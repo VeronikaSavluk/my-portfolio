@@ -1,0 +1,46 @@
+[
+		{
+			"institution": "IT school GoIT",
+			"specialization": "Full stack developer",
+			"period": "february 2022 - february 2023",
+			"documentURL": "images/documents/sertificate.jpg",
+			"jobs": []
+		},
+		{
+			"institution": "International University of Financy",
+			"specialization": "Finance",
+			"period": "september 2005 - july 2009",
+			"documentURL": "images/documents/diploma.jpg",
+			"jobs": [
+				{
+					"place": "DGF",
+					"position": "Leading Asset Management Economist",
+					"period": "may 2017 - october 2021",
+					"duties": [
+						"developed asset management plans for 12 insolvent banks",
+						"improvement of management reporting",
+						"development of financial models etc"
+					]
+				},
+				{
+					"place": "DGF",
+					"position": "Deputy Head of Credit Sales",
+					"period": "march 2016 - may 2017",
+					"duties": [
+						"support sale of loans",
+						"development of financial models and methodology etc"
+					]
+				},
+				{
+					"place": "PJS Artem-bank",
+					"position": "Risk Manager",
+					"period": "july 2008 - march 2016",
+					"duties": [
+						"management reporting (P&l,Cash Flow, Balance sheet etc.)",
+						"setting limits and monitoring",
+						"development of methodology etc"
+					]
+				}
+			]
+		}
+]
