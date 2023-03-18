@@ -53,7 +53,7 @@ function Projects (){
 return (
 	<Flex gap='20px' padding='20px'>
 	<Flex flexDirection="column">
-		<Heading as="h2" marginLeft="10px" textTransform='capitalize'>
+		<Heading as="h2" marginLeft="10px" textTransform='uppercase'>
 			team projects
 		</Heading>
 		<Box minW='50%' border='1px ' borderColor='#004D00'/>
@@ -63,7 +63,7 @@ return (
 	</Flex>
 	<Box minH='800px' border='1px ' borderColor='#004D00'/>
 	<Flex flexDirection="column">
-		<Heading as="h2" marginLeft="10px" textTransform='capitalize'>
+		<Heading as="h2" marginLeft="10px" textTransform='uppercase'>
 			individual projects
 		</Heading>
 		<Box minW='50%' border='1px ' borderColor='#004D00'/>
