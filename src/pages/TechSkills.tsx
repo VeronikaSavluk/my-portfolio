@@ -10,7 +10,7 @@ import techskills from '../techskills.json';
 
 function TechSkills () {
 	return <>
-	<Heading>TechSkills</Heading>
+	<Heading as="h2" marginY='20px' textTransform='uppercase'>tech skills</Heading>
 	<Flex flexWrap='wrap' gap='20px' alignItems='center'>
 		{techskills.map(({name, url, logotype}, idx) => 
 		<Box key={idx + 1}>
